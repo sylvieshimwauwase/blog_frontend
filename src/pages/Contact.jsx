@@ -1,8 +1,8 @@
 const Contact = () => {
    return (
       <div className="min-h-[100vh] bg-gray-100 py-8">
-         <h1 className="text-3xl font-bold text-center mb-8">Contact Sylvie SHIMWA UWASE</h1>
-         <form className="max-w-md mx-auto" action="https://getform.io/f/lajkokqb" method="POST">
+         <h1 className="text-3xl font-bold text-center mb-8">Contact Shimwa</h1>
+         <form className="max-w-md mx-auto" action="https://getform.io/f/brolndya" method="POST">
             <div className="mb-4 mx-4 sm:mx-0 hidden">
                <label htmlFor="source" className="block mb-2 font-medium text-gray-700">Source:</label>
                <input type="text" id="source" name="source" value={"This email is from DIY Blog"} className="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-[#FFA559] focus:border-[#FFA559]" />

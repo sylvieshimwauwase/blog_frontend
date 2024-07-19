@@ -7,10 +7,10 @@ const Blogs = () => {
         Oops! This page is still under construction.
       </h1>
       <p className="text-lg mb-8 text-gray-600">
-        It looks like Lionel hasn&apos;t finished designing this page yet.
+        It looks like Shimwa hasn&apos;t finished designing this page yet.
       </p>
       <Link to="/contact" className="bg-[#FFA559] font-black text-white px-4 py-2 rounded-md">
-        Contact Sylvie SHIMWA UWASE
+        Contact Shimwa
       </Link>
     </div>
   );

@@ -6,12 +6,10 @@ DIY Blog is a web application that allows users to share their do-it-yourself pr
 
 ## Features
 
-- User registration and authentication
 - Create, edit, and delete blog posts
 - Comment on blog posts
 - Like and bookmark blog posts
 - Search and filter blog posts by category or keyword
-- User profiles with activity history
 - Responsive design for mobile and desktop devices
 
 ## Color Palette

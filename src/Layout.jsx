@@ -22,7 +22,7 @@ const Layout = () => {
             to="/"
             className="flex title-font font-medium items-center mb-4 md:mb-0"
           >
-            <span className="text-3xl font-black text-[#FFE6C7]">MY</span>{" "}
+            <span className="text-3xl font-black text-[#FFE6C7]">NOVA</span>{" "}
             <span className="text-3xl font-semibold text-[#FFA559]">Blog</span>
           </Link>
           <nav className="md:ml-auto flex flex-wrap font-semibold items-center text-[#FFE6C7] justify-center space-x-10">
