@@ -1,6 +1,6 @@
 import { Outlet, Link } from "react-router-dom";
 import { useLocation } from "react-router-dom";
-import FooterLion from "./components/FooterLion";
+import Footer from "./components/Footer";
 
 const Layout = () => {
   const location = useLocation();
@@ -22,7 +22,7 @@ const Layout = () => {
             to="/"
             className="flex title-font font-medium items-center mb-4 md:mb-0"
           >
-            <span className="text-3xl font-black text-[#FFE6C7]">DIY</span>{" "}
+            <span className="text-3xl font-black text-[#FFE6C7]">MY</span>{" "}
             <span className="text-3xl font-semibold text-[#FFA559]">Blog</span>
           </Link>
           <nav className="md:ml-auto flex flex-wrap font-semibold items-center text-[#FFE6C7] justify-center space-x-10">
@@ -42,7 +42,7 @@ const Layout = () => {
         </div>
       </header>
       <Outlet />
-      <FooterLion />
+      <Footer />
     </>
   );
 };

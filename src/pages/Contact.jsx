@@ -1,7 +1,7 @@
 const Contact = () => {
    return (
       <div className="min-h-[100vh] bg-gray-100 py-8">
-         <h1 className="text-3xl font-bold text-center mb-8">Contact Lionel</h1>
+         <h1 className="text-3xl font-bold text-center mb-8">Contact Sylvie SHIMWA UWASE</h1>
          <form className="max-w-md mx-auto" action="https://getform.io/f/lajkokqb" method="POST">
             <div className="mb-4 mx-4 sm:mx-0 hidden">
                <label htmlFor="source" className="block mb-2 font-medium text-gray-700">Source:</label>

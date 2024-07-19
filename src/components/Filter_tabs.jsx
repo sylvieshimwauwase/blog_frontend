@@ -22,10 +22,11 @@ const FilterTabs = () => {
 
   const tabs = [
     { id: 1, name: "All" },
-    { id: 2, name: "DIY" },
-    { id: 3, name: "Home Improvement" },
-    { id: 4, name: "Decor" },
-    { id: 5, name: "Renovation" },
+    { id: 2, name: "Hobbies" },
+    { id: 3, name: "Exploration" },
+    { id: 4, name: "Health" },
+    { id: 5, name: "Tech & Innovation" },
+    { id: 6, name: "Home & Lifestyle" },
   ];
 
   // const articlesList = [

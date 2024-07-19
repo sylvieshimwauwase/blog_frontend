@@ -55,7 +55,7 @@ const Home = () => {
             <div className="absolute bottom-0 left-0 p-4 text-[#FFE6C7]">
               <h2 className="text-3xl font-bold">{article.title}</h2>
               <p className="text-sm">
-                {formatDate(article.created_at)} | JEAN LIONEL | {article.comments.length}{" "}
+                {formatDate(article.created_at)} | SHIMWA | {article.comments.length}{" "}
                 {article.comments.length === 1 ? "COMMENT" : "COMMENTS"}
               </p>
               {article.comments.length === 0 && (

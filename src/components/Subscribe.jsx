@@ -13,8 +13,10 @@ const Subscribe = () => {
         SUbscribe to our newsletter
       </div>
       <p className="mb-4">
-        Subscribe for DIY tutorials, home decor inspiration and more in your
-        inbox...
+      Be the first to know about new DIY projects, 
+      special features, and exclusive content. 
+      Subscribe to our blog and become part of a 
+      community that celebrates creativity and craftsmanship.
       </p>
       <form className="flex flex-row space-x-4" onSubmit={handleSubmit}>
         <input

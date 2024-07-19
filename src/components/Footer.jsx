@@ -1,4 +1,4 @@
-const FooterLion = () => {
+const Footer = () => {
     const getCurrentYear = () => {
         return new Date().getFullYear();
     };
@@ -14,7 +14,7 @@ const FooterLion = () => {
                         rel="noopener noreferrer"
                         target="_blank"
                     >
-                        @lionel
+                        @Sylvie SHIMWA UWASE
                     </a>
                 </p>
             </div>
@@ -22,4 +22,4 @@ const FooterLion = () => {
     )
 }
 
-export default FooterLion
+export default Footer
