@@ -29,42 +29,7 @@ const FilterTabs = () => {
       { id: 6, name: "Home & Lifestyle" },
    ];
 
-   // const articlesList = [
-   //   {
-   //     id: 1,
-   //     image: image1,
-   //     title: "Article Title",
-   //     date: "JANUARY 01, 2024",
-   //     type: "DIY",
-   //     comments: 5,
-   //     content:
-   //       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, repudiandae possimus! Quam deserunt perspiciatis sed modi recusandae porro, inventore ducimus maiores natus? Obcaecati amet, fuga ex minus cupiditate facilis aperiam.",
-   //   },
-   //   {
-   //     id: 2,
-   //     image: image2,
-   //     title: "Article Title",
-   //     date: "JANUARY 01, 2024",
-   //     type: "Home Improvement",
-   //     comments: 0,
-   //     content:
-   //       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, repudiandae possimus! Quam deserunt perspiciatis sed modi recusandae porro, inventore ducimus maiores natus? Obcaecati amet, fuga ex minus cupiditate facilis aperiam.",
-   //   },
-   //   {
-   //     id: 3,
-   //     image: image3,
-   //     title: "Article Title",
-   //     date: "JANUARY 01, 2024",
-   //     type: "Decor",
-   //     comments: 3,
-   //     content:
-   //       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, repudiandae possimus! Quam deserunt perspiciatis sed modi recusandae porro, inventore ducimus maiores natus? Obcaecati amet, fuga ex minus cupiditate facilis aperiam.",
-   //   },
-   //   {
-   //     id: 4,
-   //     image: image1,
-   //     title: "Article Title",
-   //     date: "JANUARY 01, 2024",
+  
    //     type: "Renovation",
    //     comments: 2,
    //     content:
